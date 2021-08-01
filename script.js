@@ -1,7 +1,4 @@
-const port='';
 
-const module=require('./back')
-module.$backs
 $u=document.getElementById('gameTitle');
 $dark=document.getElementById('darkener');
 $b=document.getElementById('adContainer');
